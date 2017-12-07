@@ -1,0 +1,11 @@
+{
+    "name": "wilder15/johnny",
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wcs\\": "src/"
+        }
+    }
+}
